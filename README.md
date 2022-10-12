@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Franco Bosco</h1>
-<h3 align="center">I am a full stack developer, graduated from Henry in October 2022. In addition, I am close to graduating with a Bachelor of Administration, at the National University of Mar del Plata - Argentina. I am a proactive person, with ease for group work as well as the ability to learn quickly. My goal in the world of programming is to perfect the skills acquired in Henry's bootcamp and learn new technologies required in the market. In my training, I learned about technologies such as HTML, CSS, Javascript, React, Redux, Express, Sequelize and others.</h3>
+<h3 align="center">I'm a full stack developer, graduated from Henry in October 2022. In addition, I'm close to graduating with a Bachelor of Administration, at the National University of Mar del Plata - Argentina. I'm a proactive person, with ease for group work as well as the ability to learn quickly. My goal in the world of programming is to perfect the skills acquired in Henry's bootcamp and learn new technologies required in the market. In my training, I learned about technologies such as HTML, CSS, Javascript, React, Redux, Express, Sequelize and others.</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Redux, Express, SQL and Sequelize**
 
